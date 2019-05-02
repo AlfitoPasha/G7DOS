@@ -8,9 +8,8 @@ def usage():
     print "|| Family Force           ||"
     print "||033[1;31m HACKER        ||"
     print "||========================||"
-    print
+    print "Cara :"
     print "Command: python2 g7dos.py <ip> <port> <packet>"
-    print "••••••••••••••••••••••••••••••••••••••••••••••"
 f flood(victim, vport, duration):
     # Support us yaakk... :)
     # Okey Jadi disini saya membuat server, Ketika saya memanggil "SOCK_DGRAM" itu  menunjukkan  UDP type program
