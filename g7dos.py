@@ -5,8 +5,8 @@ import sys
 def usage():
     print "\033[1;32m||========================||"
     print "|| Created By : G7Hckr    ||"
-    print "|| Family Force           ||"
-    print "||033[1;31m HACKER        ||"
+    print "|| Family NEX             ||"
+    print "||          HACKER        ||"
     print "||========================||"
     print "Cara :"
     print "Command: python2 g7dos.py <ip> <port> <packet>"
